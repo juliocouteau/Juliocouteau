@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Julio</h1>
 <h3 align="center">Estudante de programação pela EBAC</h3>
 
-- 🌱 Estou fazendo curso **Desenvolvedor Full Stack Python**
+- 🌱 Estou fazendo curso de **Desenvolvedor Full Stack Python**
 
 
 <p align="left">
