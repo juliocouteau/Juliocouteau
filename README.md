@@ -1,8 +1,8 @@
 # Oi 👋, eu sou o Julio!
 
-### Em formação & Desenvolvedor Full Stack Python EBAC
+### 💻 Desenvolvedor Full Stack Python
 
-Sou apaixonado por tecnologia, automação e solução de problemas complexos. Atualmente, estou mergulhado no universo do desenvolvimento de software através do curso da **EBAC**, unindo o rigor técnico da engenharia com a agilidade do desenvolvimento de software.
+Sou um entusiasta da tecnologia e de soluções de software escaláveis. Atualmente, estou focado no desenvolvimento de aplicações completas através do curso de **Desenvolvedor Full Stack Python na EBAC**. Meu objetivo é construir interfaces intuitivas conectadas a backends robustos e eficientes.
 
 ---
 
@@ -35,15 +35,16 @@ Sou apaixonado por tecnologia, automação e solução de problemas complexos. A
 ### 🚀 Projetos em Destaque
 
 #### 🥡 E-commerce & APIs
-* **[Efood (Front-end)](https://github.com/juliocouteau/efood):** Interface de delivery moderna em React.
-* **[EfoodAPI](https://github.com/juliocouteau/EfoodAPI):** Backend robusto para gestão de pedidos e restaurantes.
+* **[Efood (Front-end)](https://github.com/juliocouteau/efood):** Interface de delivery moderna construída com React e Styled Components.
+* **[EfoodAPI](https://github.com/juliocouteau/EfoodAPI):** Backend especializado na gestão de pedidos e cardápios de restaurantes.
 
-#### 🤖 Automação & Dados
-* **[IMDB Scraper](https://github.com/juliocouteau/imdb-scraper-multithreading):** Extração de dados em alta escala com multithreading.
-* **[Análise CDI](https://github.com/juliocouteau/ExercicioGraficoPY):** Automação de pipeline de dados financeiros.
+#### 🤖 Automação, Dados & Infra
+* **[IMDB Scraper](https://github.com/juliocouteau/imdb-scraper-multithreading):** Script de alta performance para extração de dados utilizando multithreading.
+* **[Deploy de Aplicações](https://github.com/juliocouteau):** Experiência com servidores Linux, utilizando Nginx e Gunicorn para hospedagem.
+* **[Análise CDI](https://github.com/juliocouteau/ExercicioGraficoPY):** Pipeline automatizado de dados financeiros, da coleta à visualização.
 
 #### 🧪 Qualidade de Software
-* **[Testes E2E Cypress](https://github.com/juliocouteau/exercicio-cypress-ebac):** Garantia de qualidade e automação de fluxos críticos.
+* **[Testes E2E Cypress](https://github.com/juliocouteau/exercicio-cypress-ebac):** Automação de testes de ponta a ponta para garantir a robustez de sistemas web.
 
 ---
 
@@ -58,4 +59,4 @@ Sou apaixonado por tecnologia, automação e solução de problemas complexos. A
 
 ### 📫 Vamos nos conectar?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/julio-santos-903605380/))]([https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/julio-santos-903605380/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-santos-903605380/)](https://www.linkedin.com/in/julio-santos-903605380/)
