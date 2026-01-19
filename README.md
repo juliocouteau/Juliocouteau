@@ -58,5 +58,4 @@ Sou apaixonado por tecnologia, automação e solução de problemas complexos. A
 
 ### 📫 Vamos nos conectar?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU_LINKEDIN)](https://www.linkedin.com/in/SEU_LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:SEU_EMAIL)](mailto:SEU_EMAIL)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/julio-santos-903605380/))]([https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/julio-santos-903605380/))
