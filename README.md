@@ -1,6 +1,6 @@
 # Oi 👋, eu sou o Julio!
 
-### 🎓 Engenheiro Eletricista em formação & Desenvolvedor Full Stack Python
+### Em formação & Desenvolvedor Full Stack Python EBAC
 
 Sou apaixonado por tecnologia, automação e solução de problemas complexos. Atualmente, estou mergulhado no universo do desenvolvimento de software através do curso da **EBAC**, unindo o rigor técnico da engenharia com a agilidade do desenvolvimento de software.
 
@@ -41,7 +41,6 @@ Sou apaixonado por tecnologia, automação e solução de problemas complexos. A
 #### 🤖 Automação & Dados
 * **[IMDB Scraper](https://github.com/juliocouteau/imdb-scraper-multithreading):** Extração de dados em alta escala com multithreading.
 * **[Análise CDI](https://github.com/juliocouteau/ExercicioGraficoPY):** Automação de pipeline de dados financeiros.
-* **[Bot Telegram Crash](https://github.com/juliocouteau/bot-telegram-crash):** Monitoramento e envio de sinais em tempo real.
 
 #### 🧪 Qualidade de Software
 * **[Testes E2E Cypress](https://github.com/juliocouteau/exercicio-cypress-ebac):** Garantia de qualidade e automação de fluxos críticos.
